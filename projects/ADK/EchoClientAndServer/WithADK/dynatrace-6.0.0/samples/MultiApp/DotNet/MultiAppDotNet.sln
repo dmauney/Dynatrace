@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiAppDotNet", "MultiAppDotNet.csproj", "{EBF83590-4F8C-42A2-94A6-C5349BE8E24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF83590-4F8C-42A2-94A6-C5349BE8E24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF83590-4F8C-42A2-94A6-C5349BE8E24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF83590-4F8C-42A2-94A6-C5349BE8E24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF83590-4F8C-42A2-94A6-C5349BE8E24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+Echo code:
+http://docs.oracle.com/javase/tutorial/displayCode.html?code=http://docs.oracle.com/javase/tutorial/networking/sockets/examples/EchoClient.java
+
+I had to switch from ET license to POC license to get a tag.
+
+Where I left off:
+The client seems to work fine, but the server will not continue an existing purepath.
+If you have "active and start purepath" set, it will create a new one.
+This seems to imply the tag is not being set equal to the client tag for some reason, but I cannot determine why.

@@ -1,0 +1,1 @@
+c:\java\jdk1.7.0_65\bin\java -classpath .;dynatrace-6.0.0\adk\lib64\com.dynatrace.adk.jar EchoClient localhost 9999
