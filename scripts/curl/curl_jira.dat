@@ -1,0 +1,32 @@
+{"fields": {
+	"project":
+	{ "id": "14220" },
+	"labels": [""],
+	"summary": "Test JIRA Actions",
+	"description": "Severity: Informational
+\nStart Time: 2015-01-19 20:59:30|
+\nEnd Time: -
+\nDuration: -
+\nStatus: Open
+\nServer: localhost
+\nIncident Rule:
+\nName: Test JIRA Actions
+\nTriggering Condition: HostReachable|
+\nViolations:
+\nMeasure: HostReachable (Test JIRA URL Monitor@localhost)|
+\nAffected Server: Test JIRA URL Monitor|
+\nUpper Critical Threshold: -
+\nUpper Warning  Threshold: -
+\nTest JIRA URL Monitor: 0.00num
+\nMeasure: HostReachable
+\nAffected Server: Test JIRA URL Monitor
+\nUpper Critical Threshold: -|
+\nUpper Warning Threshold: -
+\nTest JIRA URL Monitor: 0.00num",
+	"duedate": "2016-01-01",
+	"reporter":{"name":"reporter_user"},
+	"assignee":{"name":"assignee_user"},
+	"issuetype":{
+		"id": "3"}
+	}
+}

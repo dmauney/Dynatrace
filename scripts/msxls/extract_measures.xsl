@@ -5,6 +5,6 @@
      <xsl:strip-space  elements="*"/>
      <xsl:output  method="text" indent="no"/>
 	 <xsl:template match="measure">
-"<xsl:value-of select="@id" />","<xsl:value-of select="@description" />",<xsl:value-of select="thresholds/@threshold.upper.severe" />,<xsl:value-of select="thresholds/@threshold.upper.warning" />,<xsl:value-of select="thresholds/@threshold.upper.severe" />,<xsl:value-of select="thresholds/@threshold.upper.warning" />,<xsl:value-of select="@userdefined"/>
+"<xsl:value-of select="@id" />","<xsl:value-of select="@description" />",<xsl:value-of select="thresholds/@threshold.upper.severe" />,<xsl:value-of select="thresholds/@threshold.upper.warning" />,<xsl:value-of select="thresholds/@threshold.lower.warning" />,<xsl:value-of select="thresholds/@threshold.lower.severe" />
     </xsl:template>
 </xsl:stylesheet>
